@@ -1,7 +1,7 @@
 
 # Monografia I - Scripts utilizados
 
-Este repositório engloba os principais scripts utilizados durante a Monografia I, sobretudo referente a coleta de dados.
+Este repositório engloba os principais scripts utilizados durante a Monografia I, sobretudo referente a coleta de dados. Os arquivos resultantes estão nas pastas `tweets` e `replies`, zipados por questão de limitação de tamanho no GitHub. Para coletar os dados do Twitter é necessário instalar o Selenium e utilizar uma versão compatível do driver do Chrome.
 
 ## ListagemDeputadosComTwitter.ipynb
 O notebook lista todos os deputados que estiveram em exercício desde 1 de janeiro de 2023 até o período atual (ultima execução: 4 de junho), e gera o arquivo `deputados.csv` com os dados coletados.
